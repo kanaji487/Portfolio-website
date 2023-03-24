@@ -19,11 +19,11 @@ particlesJS('snow_fall',
         "value": 1000,
         "density": {
           "enable": true,
-          "value_area": 800
+          "value_area": 1000
         }
       },
       "color": {
-        "value": "#ffffff"
+        "value": "#b3adaf"
       },
       "shape": {
         "type": "circle",
