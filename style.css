@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#snow_fall{
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://images.unsplash.com/photo-1480018381142-5ab7b36d3098?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&w=1920);
+}
